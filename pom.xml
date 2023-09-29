@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>br.com.rocketseat</groupId>
 	<artifactId>todolist</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>todolist</name>
 	<description>Projeto de TODO LIST</description>
 	<properties>
